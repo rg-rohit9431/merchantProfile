@@ -1,0 +1,9 @@
+.active{
+    color: #004AAD;
+}
+
+.hideScroller::-webkit-scrollbar {
+    display: none;
+  }
+
+  
